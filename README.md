@@ -2,7 +2,7 @@
 
 The Book Exchange is an online marketplace for users to exchange books they’ve already read for books they haven’t using a token based currency system. The app can be found at https://the-book-exchange-mako.herokuapp.com/. 
 
-The Book Exchange was written by Daniela, Jillian, Kate, Mandy, Tim and Victoria in as a final project for [Dev Academy Aoteroa(https://devacademy.co.nz/). 
+The Book Exchange was written by Daniela, Jillian, Kate, Mandy, Tim and Victoria in as a final project for [Dev Academy Aoteroa](https://devacademy.co.nz/). 
 
 ## Install
 
