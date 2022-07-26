@@ -1,6 +1,10 @@
 # The Book Exchange
 
-The Book Exchange is an online marketplace for users to exchange books they’ve already read for books they haven’t. 
+The Book Exchange is an online marketplace for users to exchange books they’ve already read for books they haven’t using a token based currency system. The app can be found at https://the-book-exchange-mako.herokuapp.com/. 
+
+The Book Exchange was written by Daniela, Jillian, Kate, Mandy, Tim and Victoria in as a final project for [Dev Academy Aoteroa] (https://devacademy.co.nz/). 
+
+## Install
 
 ```
 npm install
@@ -8,22 +12,13 @@ npm run knex migrate:latest
 npm run knex seed:run
 npm run dev
 ```
-
-## Notes
-
-A few notes to keep you out of trouble:
-- When running knex, run `npm run knex <command>`, e.g. `npm run knex migrate:latest` rather than using `npx`
-- When running webpack, run `npm run webpack <extra commands>`, e.g. `npm run webpack`, rather than using `npx`
-- This repo is set up for SCSS (aka "sass" style CSS). To avoid getting into a "why is my CSS not working" trap you'll need to make your CSS changes in /client/styles/index.scss and NOT in /server/public/styles.css
+Visit http://localhost:3000 in your browser. 
 
 ## Project team
 
-Daniela
-Jillian
-Kate
-Mandy
-Tim
-Victoria
-
-## View Online
-[The Book Exchange](https://the-book-exchange-mako.herokuapp.com/)
+- [Daniela von Arb] (https://github.com/danielavonarb)
+- [Jillian Eccles] (https://github.com/FireDivine)
+- [Kate Stretton] (https://github.com/kate-stretton)
+- [Mandy Hale] (https://github.com/mandyh101)
+- [Tim Greenslade] (https://github.com/treegroves)
+- [Victoria Marchant] (https://github.com/victoria-marchant)
