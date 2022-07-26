@@ -4,6 +4,8 @@ The Book Exchange is an online marketplace for users to exchange books they’ve
 
 The Book Exchange was written by Daniela, Jillian, Kate, Mandy, Tim and Victoria in as a final project for [Dev Academy Aoteroa](https://devacademy.co.nz/). 
 
+![image](https://user-images.githubusercontent.com/81283807/180958032-7e40f250-bf32-404e-a8a8-772e5fa5aad8.png)
+
 ## Install
 
 ```
@@ -22,8 +24,3 @@ Visit http://localhost:3000 in your browser.
 - [Mandy Hale](https://github.com/mandyh101)
 - [Tim Greenslade](https://github.com/treegroves)
 - [Victoria Marchant](https://github.com/victoria-marchant)
-
-
-![image](https://user-images.githubusercontent.com/81283807/180958032-7e40f250-bf32-404e-a8a8-772e5fa5aad8.png)
-
-![image](https://user-images.githubusercontent.com/81283807/180958488-02b428d9-c315-48b6-b25e-4470353cd99e.png)
